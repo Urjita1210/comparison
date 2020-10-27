@@ -1,1 +1,2 @@
-alpha beta gamma
+alpha beta gamma.
+This is demo project.
